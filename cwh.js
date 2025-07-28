@@ -70,7 +70,7 @@ function products() {
        <div>Starlink</div>
        <div>Car wash. And accesories</div>
        `;
-    } else if (searchValue === 'j' || searchValue === 'm' || 't') {
+    } else if (searchValue === 'j') {
         suggestionElem.innerHTML = `
        <div>jug</div>
        <div>JBL</div>
